@@ -6,3 +6,4 @@ p2 = Pessoa('Pedro',35)
 print(p1.get_ano_nasc())
 print(p2.get_ano_nasc())
 
+
